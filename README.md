@@ -28,6 +28,9 @@ https://git-scm.com/downloads
 
   ![alt text](https://github.com/AulasPaula/Setup/blob/main/img/Git.png)
 
+- configurações básicas
+
+https://www.youtube.com/watch?v=SOxafinthys
 
 
 ## Terminal
