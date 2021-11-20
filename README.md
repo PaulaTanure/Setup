@@ -8,8 +8,7 @@ O que vai precisar instalar para começar a por a mão na massa
 
 https://code.visualstudio.com/download
 
-
-
+   ![alt text](https://github.com/AulasPaula/Setup/blob/main/img/VSCode.png)
 
 
 ## Node.js
@@ -18,8 +17,7 @@ https://nodejs.org/pt-br/download/
 
 - Fazer download do LTS para Windows
 
-  
-
+  ![alt text](https://github.com/AulasPaula/Setup/blob/main/img/Node.png)
 
 
 ## Git
@@ -28,7 +26,7 @@ https://git-scm.com/downloads
 
 - Clicar no ícone para download
 
-
+  ![alt text](https://github.com/AulasPaula/Setup/blob/main/img/Git.png)
 
 
 
@@ -36,7 +34,7 @@ https://git-scm.com/downloads
 
 https://docs.microsoft.com/en-us/windows/terminal/install
 
-
+   ![alt text](https://github.com/AulasPaula/Setup/blob/main/img/Terminal.png)
 
 
 
@@ -44,11 +42,11 @@ https://docs.microsoft.com/en-us/windows/terminal/install
 
 https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.2
 
-
+   ![alt text](https://github.com/AulasPaula/Setup/blob/main/img/PowerShell.png)
 
 ## Fonte Cascadia 
 
 https://github.com/microsoft/cascadia-code/releases
 
-
+   ![alt text](https://github.com/AulasPaula/Setup/blob/main/img/Fonte.png)
 
